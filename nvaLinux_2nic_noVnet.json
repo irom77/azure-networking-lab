@@ -32,7 +32,7 @@
             "type": "string"
         },
         "vmSize": {
-            "defaultValue": "Standard_B2ms",
+            "defaultValue": "Standard_D2s_v3",
             "type": "string"
         },
         "vmPwd": {
