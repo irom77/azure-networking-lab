@@ -34,7 +34,7 @@
             ]
         },
         "vmSize": {
-            "defaultValue": "Standard_B1s",
+            "defaultValue": "Standard_D2s_v3",
             "type": "string"
         },
         "createPip": {
